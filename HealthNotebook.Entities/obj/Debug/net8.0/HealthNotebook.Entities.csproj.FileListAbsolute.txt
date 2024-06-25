@@ -1,0 +1,12 @@
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/bin/Debug/net8.0/HealthNotebook.Entities.deps.json
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/bin/Debug/net8.0/HealthNotebook.Entities.dll
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/bin/Debug/net8.0/HealthNotebook.Entities.pdb
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/obj/Debug/net8.0/HealthNotebook.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/obj/Debug/net8.0/HealthNotebook.Entities.AssemblyInfoInputs.cache
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/obj/Debug/net8.0/HealthNotebook.Entities.AssemblyInfo.cs
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/obj/Debug/net8.0/HealthNotebook.Entities.csproj.CoreCompileInputs.cache
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/obj/Debug/net8.0/HealthNotebook.Entities.sourcelink.json
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/obj/Debug/net8.0/HealthNotebook.Entities.dll
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/obj/Debug/net8.0/refint/HealthNotebook.Entities.dll
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/obj/Debug/net8.0/HealthNotebook.Entities.pdb
+/workspaces/HealthTrackingApp/HealthNotebook.Entities/obj/Debug/net8.0/ref/HealthNotebook.Entities.dll
