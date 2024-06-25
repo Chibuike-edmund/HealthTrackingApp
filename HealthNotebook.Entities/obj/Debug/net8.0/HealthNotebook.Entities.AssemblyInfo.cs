@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HealthNotebook.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bd59093fb397b66daf956515307792fb82c42eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3f15fe62a3b9c357704269dede048f1ea65e866")]
 [assembly: System.Reflection.AssemblyProductAttribute("HealthNotebook.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HealthNotebook.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
